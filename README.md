@@ -1,3 +1,6 @@
+Hi,
+I'm *Rushika Pandya* and I'm a second year MS Bioinformatics student.
+
 # ahcg_pipeline
 Variant calling pipeline for genomic data analysis
 
