@@ -1,4 +1,6 @@
+# About me
 Hi,
+
 I'm *Rushika Pandya* and I'm a second year MS Bioinformatics student.
 
 # ahcg_pipeline
