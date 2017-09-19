@@ -1,9 +1,11 @@
-## Applied Human Computational Biology
-# About me
+# Applied Human Computational Biology
+## About me
 I'm *Rushika Pandya* and I'm a second year MS Bioinformatics student.
 
-# Mission
+## Mission
 Optimize liquid biopsy variant calling pipelines
+
+Currently, we are running the following pipeline and working to improve it
 
 # ahcg_pipeline
 Variant calling pipeline for genomic data analysis
