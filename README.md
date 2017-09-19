@@ -1,4 +1,4 @@
-# Applied Human Computational Biology
+# Applied Human Computational Biology 2017
 ## About me
 I'm *Rushika Pandya* and I'm a second year MS Bioinformatics student.
 
