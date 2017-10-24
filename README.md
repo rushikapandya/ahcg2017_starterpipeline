@@ -7,10 +7,14 @@ Optimize liquid biopsy variant calling pipelines
 
 Currently, we are running the following pipeline and working to improve it
 
+# Wet Lab and Bioinformatics
+
+The pipeline that we have developed is for the bioinformatics analysis following the wet lab steps of exoDNA sequencing. 
+
 # ahcg_pipeline
 Variant calling pipeline for genomic data analysis
 
-# Filter Variants by Sequence Coverage
+## Filter Variants by Sequence Coverage
 Post variant calling using the pipeline we filtered the variants based on depth of coverage
 
 ```{sh}
