@@ -10,6 +10,14 @@ Currently, we are running the following pipeline and working to improve it
 # ahcg_pipeline
 Variant calling pipeline for genomic data analysis
 
+# Filter Variants by Sequence Coverage
+Post variant calling using the pipeline we filtered the variants based on depth of coverage
+
+```{sh}
+cat Variants.vcf | java -jar path/to/SnpSift.jar filter "((QUAL >= 30) && (DP >= 25))" > Variants-Filtered.vcf
+```
+
+
 ## Requirements
 
 1. [Python3 - version 3.4.1](https://www.python.org/download/releases/3.4.1/)
