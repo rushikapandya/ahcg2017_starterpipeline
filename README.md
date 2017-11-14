@@ -1,18 +1,14 @@
 # Applied Human Computational Biology 2017
 ## About me
-I'm *Rushika Pandya* and I'm a second year MS Bioinformatics student.
+I'm *Rushika Pandya* and I'm a second year MS Bioinformatics student. As a part of Applied Human Computational Genomics (AHCG) 2017, we are developing a variant calling pipeline for genomic data analysis.
 
 ## Mission
-Optimize liquid biopsy variant calling pipelines
+Our mission is to device liquid biopsy kit to for non-invasive early detection of cancer
 
-Currently, we are running the following pipeline and working to improve it
+Our project involves involves integrating wet lab and bioinformatics aspects of cancer detection. The pipeline that we have developed is for the bioinformatics analysis following the wet lab steps of exoDNA sequencing. We aim to optimize liquid biopsy variant calling pipelines making it more sensitive to rare variants. 
 
-# Wet Lab and Bioinformatics
-
-The pipeline that we have developed is for the bioinformatics analysis following the wet lab steps of exoDNA sequencing. 
-
-# ahcg_pipeline
-Variant calling pipeline for genomic data analysis
+## ahcg_pipeline
+Goal: Build variant calling pipeline for genomic data analysis to detect low frequency variants from liquid biopsy
 
 ## Filter Variants by Sequence Coverage
 Post variant calling using the pipeline we filtered the variants based on depth of coverage
