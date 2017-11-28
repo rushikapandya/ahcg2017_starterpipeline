@@ -25,6 +25,7 @@ cat Variants.vcf | java -jar path/to/SnpSift.jar filter "((QUAL >= 30) && (DP >=
 3. [Bowtie2 - version 2.2.9](https://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.2.9/)
 4. [Picard tools - version 2.6.0](https://github.com/broadinstitute/picard/releases/download/2.6.0/picard.jar)
 5. [GATK - version 3.4](https://software.broadinstitute.org/gatk/download/)
+6. [Control-Freec v11.0](https://github.com/BoevaLab/FREEC/archive/v11.0.tar.gz)
 
 ## Reference genome
 
